@@ -44,6 +44,10 @@ Table OF Contents
 
 /* -- typography -- */
 
+#myself {
+    border-radius: 50%;
+}
+
 body {
     font-family: 'Varela Round', sans-serif;
     font-size: 16px;
